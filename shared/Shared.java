@@ -1,4 +1,4 @@
-package in.shared;
+package com.shared;
 
 /**
 *	Shared Module for Tablet and Handset.
